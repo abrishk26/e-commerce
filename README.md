@@ -85,3 +85,8 @@ This project is divided into two main folders: `bookstore-api` for the backend a
 * **View Books:** Browse books based on different categories.
 * **Add to Cart:** Add desired books to your shopping cart.
 * **Checkout:** Click the "Checkout" button on the cart menu to place your order, which will be added to the backend.
+
+---
+
+For more information on the backend endpoints, their request, and response structure, refer to:
+[https://deepwiki.com/abrishk26/e-commerce](https://deepwiki.com/abrishk26/e-commerce)
